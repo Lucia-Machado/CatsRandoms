@@ -1,0 +1,28 @@
+* {
+    background-color: #FFFADE;
+    font-family: 'Poppins', sans-serif;
+}
+#title {
+    color: #A07AF5;
+    text-align: center;
+}
+#btn {
+    background-color: #00C2F9;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    margin: 20px;
+    font-weight:bold;
+    color: white;
+}
+#container {
+    display: flex;
+    justify-content: center; 
+    height: 100vh; 
+  }
+  
+img {
+    border-radius: 20px;
+    max-width: 100%; 
+    height: auto;
+}
